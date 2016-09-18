@@ -23,7 +23,8 @@ Similar words to 'flirt' : [unconcern, twelvemonth, aspect, certainty, formed]
 Similar words to 'sleep' : [polite, weeks, tranquillity, writing, requir]
 Similar words to 'you' : [u, myself, me, am, we]
 Similar words to 'man' : [woman, circumstance, person, different, thousand]
-Similar words to 'park' : [across, wood, parsonage, river, lane]
+Similar words to 'park' : [across, wood, parsonage, river, lane]
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.827 sec
 ```
 
+You may want to read the novel to understand why darcy and collins are related concepts: they both propose to the protagonist.
